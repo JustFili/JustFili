@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Fili 👋</h1>
+<h1 align="center">Hola, Soy Fili </h1>
 <p align="center">
   Desarrollador de software enfocado en construir soluciones eficientes, escalables y mantenibles.<br>
   Me gusta crear <b>juegos web</b> y aplicaciones con <b>JavaScript</b> y <b>Node.js</b>.
@@ -27,14 +27,9 @@
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-|  [**Dino Safari: Crónicas de Isla Ámbar**](https://github.com/JustFili/dino-safari) · [▶ Jugar](https://kodexcorp.net/juegos/dino-safari/) | Juego 2D de aventura y fotografía prehistórica con modo historia, enciclopedia de especies y jefes. | HTML5 Canvas · Web Audio · Node.js |
+|  [**Dino Safari: Crónicas de Isla Ámbar**](https://github.com/JustFili/dino-safari) · [ Jugar](https://kodexcorp.net/juegos/dino-safari/) | Juego 2D de aventura y fotografía prehistórica con modo historia, enciclopedia de especies y jefes. | HTML5 Canvas · Web Audio · Node.js |
 
-###  Estadísticas
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JustFili&show_icons=true&theme=transparent&hide_border=true" alt="Estadísticas de GitHub">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustFili&layout=compact&theme=transparent&hide_border=true" alt="Lenguajes más usados">
-</p>
 
 ###  Contacto
 
